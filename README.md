@@ -1,2 +1,0 @@
-# tuitionpoint
-Tuition Site
